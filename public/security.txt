@@ -1,0 +1,4 @@
+Contact: mailto:misbakhul2904@gmail.com
+Expires: 2026-10-03T00:00:00.000Z
+Encryption: https://color.misbakhul.my.id/pgp-key.txt
+Preferred-Languages: en, id
