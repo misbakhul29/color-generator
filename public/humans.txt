@@ -1,0 +1,9 @@
+/* TEAM */
+Developer: Misbakhul Munir
+Website: https://misbakhul.my.id
+Twitter: https://twitter.com/yourusername
+
+/* SITE */
+Last update: 2025-10-03
+Language: English
+Framework: React, TailwindCSS
